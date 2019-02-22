@@ -37,6 +37,15 @@ body {
 
 /* ---- header ---- */
 
+
+
+/* --------- SECTION TWO ---------- */
+
+.section-two {
+  display: flex;
+  flex-direction: column;
+}
+
 /* ---- footer ---- */
 
 /* ---- components ---- */
