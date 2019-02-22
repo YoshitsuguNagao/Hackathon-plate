@@ -2,7 +2,7 @@
 
 > Internal Ironhack Barcelona Hackathon (UX/UI + WebDev)
 
-## How to use
+## How to use:
 
 - Fork to your github account
 - Use this file to describe your project, plan, take notes, todos, etc...
