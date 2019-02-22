@@ -13,6 +13,7 @@ h1 {
 }
 .content p {
   font-size: 24px;
+  line-height: 1.6em;
 }
 body {
   margin: 0;
@@ -24,6 +25,7 @@ body {
   height: 100vh;
   
   background-image: url("../images/Header-Image.png");
+  /* background-image: url("../images/background.jpg"); */
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -70,6 +72,7 @@ body {
 nav ul {
   display: flex;
   margin: 0;
+  padding-left: 0;
   list-style-type: none;
 }
 
@@ -80,6 +83,7 @@ nav ul li {
   justify-content: space-between;
 }
 nav ul li:first-of-type {
+  padding-left: 0;
   margin-right: auto;
   font-weight: bold;
 }
@@ -103,7 +107,7 @@ nav ul li a:hover {
   color: white;
   background-color: #ED553D;
   padding: 10px 35px;
-  margin: 0 15px 40px;
+  margin: 0 15px 40px 0;
   width: 200px;
   border-radius: 35px;
   border: 1px solid #ED553D;
@@ -115,8 +119,8 @@ nav ul li:last-child {
 }
 
 .content {
-  border: 1px solid crimson;
-  width: 500px;
+  /* border: 1px solid crimson; */
+  width: 550px;
   margin-top: 100px;
 }
 
@@ -217,7 +221,7 @@ nav ul li:last-child {
  
  .section-4-article {
   margin: 0 3%;
-  background: url("../assets/images/Background-image.png");
+  /* background: url("./images/Background-image.png"); */
   width: 250px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding-top: 3%;
