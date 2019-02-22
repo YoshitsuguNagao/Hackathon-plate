@@ -19,7 +19,7 @@ body {
   grid-template-columns: 11% 78% 11%;
   height: 100vh;
   
-  background-image: url("./assets/header-background.jpg");
+  background-image: url("../images/header-background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
