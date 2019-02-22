@@ -1,12 +1,21 @@
-# Hackathon-plate 2019
+# Postopia
 
-> Internal Ironhack Barcelona Hackathon (UX/UI + WebDev)
+> Postopia is a drone delivery services that allows users to delivery any kind of package, anywhere at any time.
 
 ## How to use:
 
-- Fork to your github account
-- Use this file to describe your project, plan, take notes, todos, etc...
-- Have fun
+- Register / Sign in
+- Order the service
+- Confirm your position
+- Await for the drone
+- Put your package in the drone's bag
+- Await confirmation of delivery in your App
+
+- Confirm your location
+- Confirm delivery with QR code
+- Track order with live gps
+
+- 24hr / 7 days a week service
 
 ### Files included:
 
@@ -17,3 +26,4 @@
 ### Folders included:
 
   - `./assets` (add images, fonts, etc...)
+
